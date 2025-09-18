@@ -11,7 +11,8 @@ public class Main {
         Passaro p1 = new Passaro();
         p1.emitirSom();
 
-
+        Ovelha o1 = new Ovelha();
+        o1.emitirSom();
 
     }
 }
